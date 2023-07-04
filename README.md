@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on JAVA
 - 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Spring Boot
 <!--
 **magc-dev/magc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
